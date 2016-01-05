@@ -22,7 +22,6 @@ SET(src-acdc_gpu
     gpu/InitGPU.cu
     gpu/Permutation.cu
     gpu/cutorch_state.cu
-    gpu/fft_custom_layers2.cu
     )
 
 SET(src-acdc_cpu
